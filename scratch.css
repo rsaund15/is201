@@ -1,0 +1,47 @@
+body{
+background-color: rgba(0, 255, 255, 0.435);  
+font-size: larger;
+font-family: monospace;
+font-weight: 700;   
+}
+
+.jaguar{
+    text-align: right;
+}
+
+.positioning{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: black;
+
+}
+
+.tucan{
+
+}
+tableau{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.bird{
+    justify-content: space-between;
+    border: 5px outset rgba(171, 171, 255, 0.613);
+    align-items: center;
+    display: flex;
+}
+
+.jumptotop{
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.jumpbutton{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
